@@ -1,6 +1,6 @@
 # How to start tunnel for automation test in UnitTest on [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=UnitTest-tunnel)
 
-If you want to run your an automation test in Pytest on LambdaTest using the tunnel and want to start the tunnel automatically in the script, you can use the follwing steps. You can refer to sample test repo [here](https://github.com/LambdaTest/Python-UnitTest-Selenium).
+If you want to run your an automation test in UnitTest on LambdaTest using the tunnel and want to start the tunnel automatically in the script, you can use the follwing steps. You can refer to sample test repo [here](https://github.com/LambdaTest/Python-UnitTest-Selenium).
 
 ## Steps
 
